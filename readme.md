@@ -1,7 +1,9 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/AI%20Interview%20Fraud%20Detection-v2.0.0-blueviolet?style=for-the-badge&logo=opencv&logoColor=white" alt="Project Badge" />
+
 ![AI Interview Fraud Detection Logo](https://github.com/Sanket2329/AI-Interview-Fraud-Detection/blob/main/logo.png)
+
 # AI Interview Fraud Detection System
 
 **Enterprise-grade real-time proctoring powered by Computer Vision & AI**
