@@ -227,5 +227,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 Built with React + FastAPI + OpenCV + MediaPipe
 
 </div>
-python -m uvicorn main:app --reload 
+
 
