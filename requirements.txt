@@ -1,0 +1,10 @@
+# AI Interview Fraud Detection - Python Dependencies
+
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+sqlalchemy==2.0.35
+python-dotenv==1.0.1
+pydantic==2.9.0
+opencv-python==4.10.0.84
+mediapipe==0.10.18
+numpy==1.26.4
