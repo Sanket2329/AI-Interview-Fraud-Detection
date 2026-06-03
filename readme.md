@@ -1,10 +1,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/AI%20Interview%20Fraud%20Detection-v2.0.0-blueviolet?style=for-the-badge&logo=opencv&logoColor=white" alt="Project Badge" />
-
-<!-- AI-Generated Logo via Pollinations.ai -->
-<img src="https://image.pollinations.ai/prompt/futuristic%20AI%20eye%20surveillance%20shield%20logo%2C%20glowing%20blue%20iris%2C%20circuit%20patterns%2C%20dark%20background%2C%20minimal%20flat%20design%2C%20cybersecurity%20proctoring%20icon%2C%204k%20sharp?width=300&height=300&nologo=true" alt="AI Interview Fraud Detection Logo" width="220" height="220" style="border-radius:20px; margin: 20px 0;" />
-
+![AI Interview Fraud Detection Logo](https://github.com/Sanket2329/AI-Interview-Fraud-Detection/blob/main/logo.png)
 # AI Interview Fraud Detection System
 
 **Enterprise-grade real-time proctoring powered by Computer Vision & AI**
